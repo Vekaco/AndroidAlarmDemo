@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/KaikaiFu/AndroidStudioProjects/YoutubeAlarm/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/KaikaiFu/AndroidStudioProjects/YoutubeAlarm/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_01227fe19a8168fe3423d885c040bc3094474fd5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/KaikaiFu/AndroidStudioProjects/YoutubeAlarm/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="847811e740cea8e516d6e597ba3c85066ff96530">
+        <dex dex="/Users/KaikaiFu/AndroidStudioProjects/YoutubeAlarm/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_01fffe977131b3a20d923f2b35a090c30e487d10/classes.dex" />
+    </item>
+
+</items>
