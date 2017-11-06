@@ -9,6 +9,8 @@ import android.util.Log;
  * Created by KaikaiFu on 2017/3/11.
  */
 
+//this is an test
+
 public class AlarmReceiver extends BroadcastReceiver {
 
     @Override
